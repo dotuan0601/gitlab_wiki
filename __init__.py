@@ -1,5 +1,5 @@
-from . import gitlab_wiki
+from . import tkgitlabwiki
 
 __all__ = [
-    'gitlab_wiki',
+    'tkgitlabwiki',
 ]
